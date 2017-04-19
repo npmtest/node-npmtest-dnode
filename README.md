@@ -1,4 +1,7 @@
-# test coverage for  [dnode (v1.2.2)](https://github.com/substack/dnode#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dnode.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dnode) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dnode.svg)](https://travis-ci.org/npmtest/node-npmtest-dnode)
+# npmtest-dnode
+
+#### test coverage for  [dnode (v1.2.2)](https://github.com/substack/dnode#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dnode.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dnode) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dnode.svg)](https://travis-ci.org/npmtest/node-npmtest-dnode)
+
 #### freestyle rpc
 
 [![NPM](https://nodei.co/npm/dnode.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dnode)
